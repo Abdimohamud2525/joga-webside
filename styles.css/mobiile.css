@@ -1,0 +1,17 @@
+.my__bar__icon{
+    display: none;
+}
+.conteiner{
+    width: 100%;
+}
+.info-boxs{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.blog{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.footer{
+    width: 100%;
+}
