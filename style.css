@@ -217,6 +217,7 @@ color: white;
     width: 350px;
     height: auto;
 }
+/* blog text */
 .block-text{
     display: flex;
     flex-direction: column;
