@@ -126,6 +126,7 @@ color: white;
     gap: 10px;
     margin-left: 20px;
 }
+/* info__boxs .info__boxs */
 .info__boxs .info__boxs{
     display: flex;
     flex-direction: column;
